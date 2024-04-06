@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santino-john" alt="santino-john" /></a> </p>
 
-- 💬 Ask me about **css, javascript, react, python**
+- 💬 Ask me about **javascript, python, html and css**
 
 - 📫 How to reach me **santinojohn45@gmail.com**
 
